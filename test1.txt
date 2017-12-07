@@ -1,10 +1,1 @@
- Volume in drive E is PersistentDataDisk
- Volume Serial Number is C87B-6CFF
-
- Directory of E:\Users\00920013\MyGitProject
-
-12/06/2017  01:34 AM    <DIR>          .
-12/06/2017  01:34 AM    <DIR>          ..
-12/06/2017  01:34 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   5,100,728,320 bytes free
+change 1
